@@ -103,8 +103,4 @@ Identifies top and bottom performers using `RANK()`, `TOP`, and `ROW_NUMBER()`:
 
 This project demonstrates foundational and advanced SQL techniques for data warehousing and business analytics. It's an ideal learning tool or foundation for more complex BI pipelines.
 
----
 
-## 📜 License
-
-This project is for educational purposes. Modify and adapt it for your own needs.
